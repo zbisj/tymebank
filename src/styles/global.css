@@ -1,0 +1,37 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Rajdhani, HelveticaNeue, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+i,
+p,
+span,
+small,
+blockquote {
+  font-family: Roboto, HelveticaNeue, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+}
+
+@media screen and (max-width: 42px) {
+  i,
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 span,
+  small {
+    text-align: left;
+  }
+}

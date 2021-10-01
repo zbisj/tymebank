@@ -1,0 +1,9 @@
+{
+  "large": "35px",
+  "small": "12px",
+  "medium": "20px",
+  "radius-md": "5px",
+  "radius-sm": "3px",
+  "x-large": "40px",
+  "xx-large": "80px"
+}
